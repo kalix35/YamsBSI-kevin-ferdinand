@@ -1,0 +1,17 @@
+Quel est le choix que vous voulez réaliser ?
+
+Combinaisons :
+
+1- Combinaison d'as/d'un : Seuls les as comptent
+2- Combinaison de deux : Seuls les deux comptent
+3- Combinaison de trois : Seuls les trois comptent
+4- Combinaison de quatre : Seuls les quatres comptent
+5- Combinaison de cinq : Seuls les cinqs comptent
+6- Combinaison de six : Seuls les six comptent
+
+7- Brelan (3 faces identiques) -- Tous les points comptent (5 dés)
+8- Petite suite -- Séquence de 1 à 5 -- 15 points
+9- Grande suite -- Séquence de 2 à 6 -- 20 points
+10- Full -- Brelan + paire -- 30 points
+11- Carre (4 faces identiques) -- 40 points
+12- Yam (5 faces identiques) -- 50 points
